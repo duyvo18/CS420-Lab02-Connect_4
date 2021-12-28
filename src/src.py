@@ -75,7 +75,7 @@ for dec_tree in dec_trees:
     idx = dec_trees.index(dec_tree)
     corr_prop = train_propotions[idx]
     
-    filename = f"tree-{corr_prop}_Full"
+    filename = "./tree_visualization/" + f"tree-{corr_prop}_Full"
     
     doc_data = export_graphviz(
         dec_tree,
@@ -117,7 +117,7 @@ for max_depth in max_depths:
     dec_tree = DecisionTreeClassifier(criterion='entropy', max_depth=max_depth)
     dec_tree = dec_tree.fit(dataset["feature_train"], dataset["label_train"])
     
-    filename = f"tree-{0.8}_Depth-{max_depth}"
+    filename = "./tree_visualization/max depth evaluation/" + f"tree-{0.8}_Depth-{max_depth}"
     
     doc_data = export_graphviz(
         dec_tree,

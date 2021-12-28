@@ -22,11 +22,11 @@
 <!-- 1 -->
 <g id="node2" class="node">
 <title>1</title>
-<polygon fill="#c7a6f3" stroke="black" points="779.5,-306 549.5,-306 549.5,-223 779.5,-223 779.5,-306"/>
+<polygon fill="#c6a6f3" stroke="black" points="779.5,-306 549.5,-306 549.5,-223 779.5,-223 779.5,-306"/>
 <text text-anchor="middle" x="664.5" y="-290.8" font-family="Helvetica,sans-Serif" font-size="14.00">g1 &lt;= 0.5</text>
-<text text-anchor="middle" x="664.5" y="-275.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.277</text>
-<text text-anchor="middle" x="664.5" y="-260.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 37697</text>
-<text text-anchor="middle" x="664.5" y="-245.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [3595, 11093, 23009]</text>
+<text text-anchor="middle" x="664.5" y="-275.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.276</text>
+<text text-anchor="middle" x="664.5" y="-260.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 37801</text>
+<text text-anchor="middle" x="664.5" y="-245.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [3608, 11064, 23129]</text>
 <text text-anchor="middle" x="664.5" y="-230.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 0&#45;&gt;1 -->
@@ -39,11 +39,11 @@
 <!-- 8 -->
 <g id="node9" class="node">
 <title>8</title>
-<polygon fill="#a36eec" stroke="black" points="1215,-306 994,-306 994,-223 1215,-223 1215,-306"/>
+<polygon fill="#a36fec" stroke="black" points="1215,-306 994,-306 994,-223 1215,-223 1215,-306"/>
 <text text-anchor="middle" x="1104.5" y="-290.8" font-family="Helvetica,sans-Serif" font-size="14.00">b1 &lt;= 0.5</text>
-<text text-anchor="middle" x="1104.5" y="-275.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.006</text>
-<text text-anchor="middle" x="1104.5" y="-260.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 16348</text>
-<text text-anchor="middle" x="1104.5" y="-245.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [1564, 2215, 12569]</text>
+<text text-anchor="middle" x="1104.5" y="-275.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.012</text>
+<text text-anchor="middle" x="1104.5" y="-260.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 16244</text>
+<text text-anchor="middle" x="1104.5" y="-245.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [1551, 2244, 12449]</text>
 <text text-anchor="middle" x="1104.5" y="-230.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 0&#45;&gt;8 -->
@@ -58,9 +58,9 @@
 <title>2</title>
 <polygon fill="#d6bff7" stroke="black" points="451,-187 230,-187 230,-104 451,-104 451,-187"/>
 <text text-anchor="middle" x="340.5" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">d2 &lt;= 0.5</text>
-<text text-anchor="middle" x="340.5" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.314</text>
-<text text-anchor="middle" x="340.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 26299</text>
-<text text-anchor="middle" x="340.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [2404, 9181, 14714]</text>
+<text text-anchor="middle" x="340.5" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.315</text>
+<text text-anchor="middle" x="340.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 26290</text>
+<text text-anchor="middle" x="340.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [2411, 9175, 14704]</text>
 <text text-anchor="middle" x="340.5" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 1&#45;&gt;2 -->
@@ -72,11 +72,11 @@
 <!-- 5 -->
 <g id="node6" class="node">
 <title>5</title>
-<polygon fill="#aa7aee" stroke="black" points="770.5,-187 558.5,-187 558.5,-104 770.5,-104 770.5,-187"/>
+<polygon fill="#a979ed" stroke="black" points="770.5,-187 558.5,-187 558.5,-104 770.5,-104 770.5,-187"/>
 <text text-anchor="middle" x="664.5" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">d1 &lt;= 0.5</text>
-<text text-anchor="middle" x="664.5" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.106</text>
-<text text-anchor="middle" x="664.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 11398</text>
-<text text-anchor="middle" x="664.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [1191, 1912, 8295]</text>
+<text text-anchor="middle" x="664.5" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.097</text>
+<text text-anchor="middle" x="664.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 11511</text>
+<text text-anchor="middle" x="664.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [1197, 1889, 8425]</text>
 <text text-anchor="middle" x="664.5" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 1&#45;&gt;5 -->
@@ -89,9 +89,9 @@
 <g id="node4" class="node">
 <title>3</title>
 <polygon fill="#cdb0f5" stroke="black" points="221,-68 0,-68 0,0 221,0 221,-68"/>
-<text text-anchor="middle" x="110.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.314</text>
-<text text-anchor="middle" x="110.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 21431</text>
-<text text-anchor="middle" x="110.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [2204, 6673, 12554]</text>
+<text text-anchor="middle" x="110.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.315</text>
+<text text-anchor="middle" x="110.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 21374</text>
+<text text-anchor="middle" x="110.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [2210, 6661, 12503]</text>
 <text text-anchor="middle" x="110.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 2&#45;&gt;3 -->
@@ -103,10 +103,10 @@
 <!-- 4 -->
 <g id="node5" class="node">
 <title>4</title>
-<polygon fill="#e6fcef" stroke="black" points="442,-68 239,-68 239,0 442,0 442,-68"/>
+<polygon fill="#e8fcf0" stroke="black" points="442,-68 239,-68 239,0 442,0 442,-68"/>
 <text text-anchor="middle" x="340.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.202</text>
-<text text-anchor="middle" x="340.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 4868</text>
-<text text-anchor="middle" x="340.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [200, 2508, 2160]</text>
+<text text-anchor="middle" x="340.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 4916</text>
+<text text-anchor="middle" x="340.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [201, 2514, 2201]</text>
 <text text-anchor="middle" x="340.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = loss</text>
 </g>
 <!-- 2&#45;&gt;4 -->
@@ -118,10 +118,10 @@
 <!-- 6 -->
 <g id="node7" class="node">
 <title>6</title>
-<polygon fill="#a26eec" stroke="black" points="663,-68 460,-68 460,0 663,0 663,-68"/>
-<text text-anchor="middle" x="561.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.007</text>
-<text text-anchor="middle" x="561.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 8921</text>
-<text text-anchor="middle" x="561.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [890, 1169, 6862]</text>
+<polygon fill="#a26dec" stroke="black" points="663,-68 460,-68 460,0 663,0 663,-68"/>
+<text text-anchor="middle" x="561.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.001</text>
+<text text-anchor="middle" x="561.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 9041</text>
+<text text-anchor="middle" x="561.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [907, 1157, 6977]</text>
 <text text-anchor="middle" x="561.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 5&#45;&gt;6 -->
@@ -133,10 +133,10 @@
 <!-- 7 -->
 <g id="node8" class="node">
 <title>7</title>
-<polygon fill="#cdb0f5" stroke="black" points="874.5,-68 680.5,-68 680.5,0 874.5,0 874.5,-68"/>
-<text text-anchor="middle" x="777.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.347</text>
-<text text-anchor="middle" x="777.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 2477</text>
-<text text-anchor="middle" x="777.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [301, 743, 1433]</text>
+<polygon fill="#cbadf4" stroke="black" points="874.5,-68 680.5,-68 680.5,0 874.5,0 874.5,-68"/>
+<text text-anchor="middle" x="777.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.334</text>
+<text text-anchor="middle" x="777.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 2470</text>
+<text text-anchor="middle" x="777.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [290, 732, 1448]</text>
 <text text-anchor="middle" x="777.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 5&#45;&gt;7 -->
@@ -148,11 +148,11 @@
 <!-- 9 -->
 <g id="node10" class="node">
 <title>9</title>
-<polygon fill="#a978ed" stroke="black" points="1210.5,-187 998.5,-187 998.5,-104 1210.5,-104 1210.5,-187"/>
-<text text-anchor="middle" x="1104.5" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">g1 &lt;= 0.5</text>
-<text text-anchor="middle" x="1104.5" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.102</text>
-<text text-anchor="middle" x="1104.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 12709</text>
-<text text-anchor="middle" x="1104.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [1391, 2029, 9289]</text>
+<polygon fill="#aa79ed" stroke="black" points="1210.5,-187 998.5,-187 998.5,-104 1210.5,-104 1210.5,-187"/>
+<text text-anchor="middle" x="1104.5" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">a2 &lt;= 0.5</text>
+<text text-anchor="middle" x="1104.5" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.11</text>
+<text text-anchor="middle" x="1104.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 12577</text>
+<text text-anchor="middle" x="1104.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [1373, 2054, 9150]</text>
 <text text-anchor="middle" x="1104.5" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 8&#45;&gt;9 -->
@@ -166,9 +166,9 @@
 <title>12</title>
 <polygon fill="#8e4ee8" stroke="black" points="1528.5,-187 1334.5,-187 1334.5,-104 1528.5,-104 1528.5,-187"/>
 <text text-anchor="middle" x="1431.5" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">c3 &lt;= 0.5</text>
-<text text-anchor="middle" x="1431.5" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.563</text>
-<text text-anchor="middle" x="1431.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 3639</text>
-<text text-anchor="middle" x="1431.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [173, 186, 3280]</text>
+<text text-anchor="middle" x="1431.5" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.57</text>
+<text text-anchor="middle" x="1431.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 3667</text>
+<text text-anchor="middle" x="1431.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [178, 190, 3299]</text>
 <text text-anchor="middle" x="1431.5" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 8&#45;&gt;12 -->
@@ -180,10 +180,10 @@
 <!-- 10 -->
 <g id="node11" class="node">
 <title>10</title>
-<polygon fill="#b083ef" stroke="black" points="1104.5,-68 892.5,-68 892.5,0 1104.5,0 1104.5,-68"/>
-<text text-anchor="middle" x="998.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.18</text>
-<text text-anchor="middle" x="998.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 9675</text>
-<text text-anchor="middle" x="998.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [1125, 1825, 6725]</text>
+<polygon fill="#b184ef" stroke="black" points="1104.5,-68 892.5,-68 892.5,0 1104.5,0 1104.5,-68"/>
+<text text-anchor="middle" x="998.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.183</text>
+<text text-anchor="middle" x="998.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 9685</text>
+<text text-anchor="middle" x="998.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [1117, 1858, 6710]</text>
 <text text-anchor="middle" x="998.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 9&#45;&gt;10 -->
@@ -195,10 +195,10 @@
 <!-- 11 -->
 <g id="node12" class="node">
 <title>11</title>
-<polygon fill="#965be9" stroke="black" points="1316.5,-68 1122.5,-68 1122.5,0 1316.5,0 1316.5,-68"/>
-<text text-anchor="middle" x="1219.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.775</text>
-<text text-anchor="middle" x="1219.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 3034</text>
-<text text-anchor="middle" x="1219.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [266, 204, 2564]</text>
+<polygon fill="#975be9" stroke="black" points="1316.5,-68 1122.5,-68 1122.5,0 1316.5,0 1316.5,-68"/>
+<text text-anchor="middle" x="1219.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.78</text>
+<text text-anchor="middle" x="1219.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 2892</text>
+<text text-anchor="middle" x="1219.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [256, 196, 2440]</text>
 <text text-anchor="middle" x="1219.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 9&#45;&gt;11 -->
@@ -212,8 +212,8 @@
 <title>13</title>
 <polygon fill="#8c4ae7" stroke="black" points="1528.5,-68 1334.5,-68 1334.5,0 1528.5,0 1528.5,-68"/>
 <text text-anchor="middle" x="1431.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.495</text>
-<text text-anchor="middle" x="1431.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 3407</text>
-<text text-anchor="middle" x="1431.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [143, 139, 3125]</text>
+<text text-anchor="middle" x="1431.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 3430</text>
+<text text-anchor="middle" x="1431.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [145, 139, 3146]</text>
 <text text-anchor="middle" x="1431.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 12&#45;&gt;13 -->
@@ -225,10 +225,10 @@
 <!-- 14 -->
 <g id="node15" class="node">
 <title>14</title>
-<polygon fill="#b58bf0" stroke="black" points="1713,-68 1546,-68 1546,0 1713,0 1713,-68"/>
-<text text-anchor="middle" x="1629.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.237</text>
-<text text-anchor="middle" x="1629.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 232</text>
-<text text-anchor="middle" x="1629.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [30, 47, 155]</text>
+<polygon fill="#ba92f1" stroke="black" points="1713,-68 1546,-68 1546,0 1713,0 1713,-68"/>
+<text text-anchor="middle" x="1629.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 1.281</text>
+<text text-anchor="middle" x="1629.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 237</text>
+<text text-anchor="middle" x="1629.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [33, 51, 153]</text>
 <text text-anchor="middle" x="1629.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = win</text>
 </g>
 <!-- 12&#45;&gt;14 -->
